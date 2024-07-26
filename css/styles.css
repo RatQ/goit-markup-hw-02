@@ -87,11 +87,15 @@ button {
 
 .hero-btn:hover,
 .hero-btn:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 /* #endregion hero */
 
 /* #region Our work */
+.our-work-title {
+    color: #2e2f42;
+}
+
 .name-our-work {
     font-weight: 500;
     font-size: 20px;
@@ -113,6 +117,7 @@ button {
 }
 
 .our-team-title {
+    color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -144,6 +149,7 @@ button {
 
 /* #region our portfolio */
 .our-portfolio {
+    color: #2e2f42;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
